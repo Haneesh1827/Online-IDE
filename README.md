@@ -1,8 +1,8 @@
 #Online Compiler
 
-The project implements a online code editor compartible with C, C++, Python
+The project implements a online code editor compatible with C, C++, Python
 
-Deployed @ https://onlineide-135.herokuapp.com/
+
 
 ## Getting Started
 
