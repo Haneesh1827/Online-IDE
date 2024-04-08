@@ -23,13 +23,13 @@ npm install
 to run the server side
 
 ```
-npm run server
+sudo npm run server
 ```
 
 to run client
 
 ```
-npm run react
+sudo npm run react
 ```
 ![1](https://user-images.githubusercontent.com/88588326/180659932-c037d270-029c-4347-938c-0344866d1b59.png)
 
